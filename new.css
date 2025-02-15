@@ -73,7 +73,7 @@ body {
     font-weight: bold;
 }
 .footer-menu a:hover {
-    color: #ffc107;
+    color: rgb(26, 200, 209);
 }
 .footer-icons {
     display: flex;
